@@ -1,0 +1,7 @@
+C:\Users\ASUS ROG\source\repos\20190140035_Assignment5\20190140035_Assignment5\bin\Debug\20190140035_Assignment5.exe.config
+C:\Users\ASUS ROG\source\repos\20190140035_Assignment5\20190140035_Assignment5\bin\Debug\20190140035_Assignment5.exe
+C:\Users\ASUS ROG\source\repos\20190140035_Assignment5\20190140035_Assignment5\bin\Debug\20190140035_Assignment5.pdb
+C:\Users\ASUS ROG\source\repos\20190140035_Assignment5\20190140035_Assignment5\obj\Debug\20190140035_Assignment5.csproj.CoreCompileInputs.cache
+C:\Users\ASUS ROG\source\repos\20190140035_Assignment5\20190140035_Assignment5\obj\Debug\20190140035_Assignment5.exe
+C:\Users\ASUS ROG\source\repos\20190140035_Assignment5\20190140035_Assignment5\obj\Debug\20190140035_Assignment5.pdb
+C:\Users\ASUS ROG\source\repos\20190140035_Assignment5\20190140035_Assignment5\obj\Debug\20190140035_Assignment5.csproj.AssemblyReference.cache
